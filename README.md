@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# Desafio DIO Boas práticas com DynamoDB
 Repositório para o desafio de projeto sobre o Amazon DynamoDB
 
 ### Serviço utilizado
